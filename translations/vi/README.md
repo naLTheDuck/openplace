@@ -1,8 +1,8 @@
-# ![openplace](../../banner.png "openplace banner")
+# ![openplace](/banner.png "openplace banner")
 
 <p align="center"><strong>Translations</strong> v6.3</p>
 <p align="center">
-	<a href="../../README.md"><img src="https://flagcdn.com/256x192/us.png" width="48" alt="United States Flag"></a>
+	<a href="/README.md"><img src="https://flagcdn.com/256x192/us.png" width="48" alt="United States Flag"></a>
 
 ## 
 
@@ -15,15 +15,15 @@ Openplace (không viết hoa) là một mã nguồn mở backend miễn phí, kh
 
 ### Windows
 
-- [Hướng dẫn cài đặt cho Windows](translations/vi/SETUP_WINDOWS.md)
+- [Hướng dẫn cài đặt cho Windows](SETUP_WINDOWS.md)
 
 ### macOS
 
-- [Hướng dẫn cài đặt cho macOS](translations/vi/SETUP_MACOS.md)
+- [Hướng dẫn cài đặt cho macOS](SETUP_MACOS.md)
 
 ### Docker
 
-- [Hướng dẫn cài đặt cho Docker](translations/vi/SETUP_DOCKER.md)
+- [Hướng dẫn cài đặt cho Docker](SETUP_DOCKER.md)
 
 
 ### Khả năng truy cập máy chủ

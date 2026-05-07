@@ -28,30 +28,30 @@ cp .env.example .env
 ```
 
 2. Chỉnh sửa tệp `.env` và cấu hình cài đặt của bạn:
-    - Thiết lập `JWT_SECRET` (tạo một chuỗi ký tự an toàn ngẫu nhiên)
+    - Thiết lập `JWT_SECRET` (tạo một chuỗi kí tự an toàn ngẫu nhiên)
     - Thiết lập `DATABASE_URL` đến `"mysql://root:password@db/openplace"`
     - Mật khẩu gốc MariaDB được đặt là `password` (thay đổi nếu cần thiết)
 
 > [CẢNH BÁO ⚠️]
-> Escape special characters listed in this table: [Percent-Encoding](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding)
+> Thay thế các kí tự đặc biệt được liệt kê trong bảng sau: [Percent-Encoding](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding)
 
-## 3. Start the application
+## 3. Khởi động ứng dụng
 
-Run the entire stack with Docker Compose:
+Chạy toàn bộ hệ thống với Docker Compose:
 
 ```bash
 docker-compose up -d
 ```
 
-This will start:
+Điều này sẽ bắt đầu:
 
--   **MariaDB database** on port 3306
--   **Node.js application** (backend)
--   **Caddy reverse proxy** on port 443
+-   **Cơ sở dữ liệu MariaDB** tại cổng 3306
+-   **Ứng dụng Node.js** (backend)
+-   **Proxy ngược Caddy** tại cổng 443
 
-## 4. Access the application
+## 4. Truy cập ứng dụng
 
-Once all services are running, you can access openplace at:
+Một khi toàn bộ dịch vụ đều đang chạy, bạn có thể truy cập openplace tại:
 
 ```
 http://localhost
