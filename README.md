@@ -1,11 +1,12 @@
 # ![openplace](banner.png "openplace banner")
 
-<p align="center"><strong>Translations</strong> v5.3</p>
+<p align="center"><strong>Translations</strong> v6.3</p>
 <p align="center">
     <a href="translations/de/LIESMICH.md"><img src="https://flagcdn.com/256x192/de.png" width="48" alt="German Flag"></a>
     <a href="translations/fr/LISEZMOI.md"><img src="https://flagcdn.com/256x192/fr.png" width="48" alt="French Flag"></a>
     <a href="translations/id/README.md"><img src="https://flagcdn.com/256x192/id.png" width="48" alt="Indonesia Flag"></a>
     <a href="translations/uk/ПРОЧИТАЙМЕНЕ.md"><img src="https://flagcdn.com/256x192/ua.png" width="48" alt="Ukraine Flag"></a>
+	<a href="translations/vi/README.md"><img src="https://flagcdn.com/256x192/vn.png" width="48" alt="Vietnamese Flag"></a>
 
 ## 
 

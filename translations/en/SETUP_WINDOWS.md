@@ -101,7 +101,7 @@ caddy run --config .\Caddyfile
 npm run exec
 ```
 
-## 7.C Run Caddy in background and node in forground
+## 7.C Run Caddy in background and node in foreground
 
 ```
 pm2 start ecosystem.config.cjs
